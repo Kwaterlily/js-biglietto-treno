@@ -1,0 +1,11 @@
+[class*="col-"], .col {
+    min-height: 100px;
+}
+
+body {
+    background-color: rgb(44, 114, 82);
+}
+
+#biglietto_treno {
+    color: rgb(2, 40, 168);
+}
